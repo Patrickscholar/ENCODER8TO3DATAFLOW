@@ -39,6 +39,7 @@ Figure 02  Encoder 8 * 3
 /* write all the steps invloved */
 
 **PROGRAM**
+
 <img width="357" alt="Screenshot 2024-11-29 at 7 27 52 PM" src="https://github.com/user-attachments/assets/4791fd9c-662c-4a53-ad8e-62fbfae1f466">
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
